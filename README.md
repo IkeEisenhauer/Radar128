@@ -1,5 +1,5 @@
 # Radar128
-Small aubroutine to simulate naval radar, as submitted and presented in Ahoy! Magazine #46
+Small aubroutine to simulate naval radar, as submitted and presented in Ahoy! Magazine #46 [1987]
 
 # Original Submission Text from Page 49
 RADAR 128
